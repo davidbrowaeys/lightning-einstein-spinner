@@ -1,0 +1,28 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+    <ltng:require styles="/resource/einsteinspinner/style.css"/>
+	<div class="spring19-einstein_container">
+        <div class="spring19-einstein" id="spring19-einstein_base"></div>
+        <div class="spring19-einstein" id="spring19-einstein_bike-frame"></div>
+        <div class="spring19-einstein" id="spring19-einstein_front-wheel"></div>
+        <div class="spring19-einstein" id="spring19-einstein_bike-part"></div>
+        <div class="spring19-einstein" id="spring19-einstein_back-wheel"></div>
+        <div style="width: 55px;height: 50px;z-index:300;background-color: #FFF;position: absolute;top: 65px;right: -2px;"></div>
+        <div class="spring19-einstein" id="spring19-einstein_left-leg"></div>
+        <div class="spring19-einstein" id="spring19-einstein_basket"></div>
+        <div class="spring19-einstein" id="spring19-einstein_right-leg"></div>
+        <div class="spring19-einstein" id="spring19-einstein_coat-tail"></div>
+        <div class="spring19-einstein" id="spring19-einstein_coat"></div>
+        <div class="spring19-einstein" id="spring19-einstein_face"></div>
+        <div class="spring19-einstein" id="spring19-einstein_left-eye"></div>
+        <div class="spring19-einstein" id="spring19-einstein_right-eye"></div>
+        <div class="spring19-einstein" id="spring19-einstein_left-eyebrow"></div>
+        <div class="spring19-einstein" id="spring19-einstein_right-eyebrow"></div>
+        <div class="spring19-einstein" id="spring19-einstein_beard1"></div>
+        <div class="spring19-einstein" id="spring19-einstein_beard2"></div>
+        <div class="spring19-einstein" id="spring19-einstein_hair1"></div>
+        <div class="spring19-einstein" id="spring19-einstein_hair2"></div>
+        <div class="spring19-einstein" id="spring19-einstein_hair3"></div>
+        <div class="spring19-einstein" id="spring19-einstein_hair4"></div>
+        <div class="spring19-einstein" id="spring19-einstein_hair6"></div>
+    </div>
+</aura:component>

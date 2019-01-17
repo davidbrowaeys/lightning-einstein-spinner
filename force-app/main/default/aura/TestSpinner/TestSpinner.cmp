@@ -1,0 +1,8 @@
+
+<aura:component implements="flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId" access="global">
+<div class="slds-spinner_container">
+    <div class="slds-align_absolute-center myeinstein">
+        <c:EinsteinSpinner/>
+    </div>
+</div>
+</aura:component>
