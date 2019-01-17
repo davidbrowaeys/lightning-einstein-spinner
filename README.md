@@ -1,14 +1,6 @@
-# SFDX  App
+# Lightning Eistein Biking Spinner
+A simple spinner inspired from Salesforce Spring'19 Release illustrating Einsteing riding a bike. Enjoy!
 
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
+<img src="img/eistein-spinner-gif.gif">
 
 
